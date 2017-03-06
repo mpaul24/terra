@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604589342590",
+    "firebase_url": "https://terratechnica-668cc.firebaseio.com",
+    "project_id": "terratechnica-668cc",
+    "storage_bucket": "terratechnica-668cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604589342590:android:956e352e14b08b06",
+        "android_client_info": {
+          "package_name": "com.example.directioner.terratechnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604589342590-u5pn8m8ler0lcdvaj98dri3spdp1cpsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.directioner.terratechnica",
+            "certificate_hash": "a61a831798a7372e6bd750e5be2969eff1f29bbc"
+          }
+        },
+        {
+          "client_id": "604589342590-isrcv5gskd8i0b2o74vjv0omfg5kniof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5LH8IM2D4ZUADytvZFB0f54_5IxILik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604589342590-isrcv5gskd8i0b2o74vjv0omfg5kniof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

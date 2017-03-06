@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

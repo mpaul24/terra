@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">613088934953-8gpd49hvmfmkuqde3j7u5icvt5ovgo3i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-terra.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">613088934953</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWByAx_6WFLj90Rz7dblYNRz_kTagfknE</string>
+    <string name="google_app_id" translatable="false">1:613088934953:android:956e352e14b08b06</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWByAx_6WFLj90Rz7dblYNRz_kTagfknE</string>
+    <string name="google_storage_bucket" translatable="false">firebase-terra.appspot.com</string>
+</resources>

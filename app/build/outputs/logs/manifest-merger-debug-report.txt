@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/manojit/.android/build-cache/30257c1a0cb1ea7623b15ed56024a55a191166d7/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/manojit/.android/build-cache/02cc4ee36dd37a533c7ed1c6a39be9d59b259f62/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/manojit/.android/build-cache/3719e33e0fe3af9304b8c9da557bab114fe3e480/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:9:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:12:5-68:19
+MERGED from [com.android.support:design:24.2.1] /home/manojit/.android/build-cache/6f9f0fe2bc82e340db53eac769159b1518305ecd/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /home/manojit/.android/build-cache/3f3fabf162fac9069cb9cd60e5d20b840019e678/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/manojit/.android/build-cache/4fe09b402fb891adfe0b3f20bd78c75d0f380669/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/manojit/.android/build-cache/01d42b321d56f8da0b5b12ef54232fb75244bbae/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/manojit/.android/build-cache/0839c2c7b5461ef60790ee653a34eaa0e020c629/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/manojit/.android/build-cache/54f405b98c041d39969c3c906be4eb8a1fcd3ee7/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/manojit/.android/build-cache/66a2fdb0fde4db5d5dfdd09b62082c15f761fe11/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/manojit/.android/build-cache/d4dbb6120ee1d5a97d7da012aac5a6dce6455a99/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/manojit/.android/build-cache/85ce50fb68e94832c8ae4eac210baedb4c04a26e/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/manojit/.android/build-cache/fb08ef1df766d6e3005436f4202d5b408fd17e7b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/manojit/.android/build-cache/ae8467c388cc08f76665aa82f3dd14df5a328220/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/manojit/.android/build-cache/a4b1ee674fc941da7e96a83f31d507903f250fe3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/manojit/.android/build-cache/30257c1a0cb1ea7623b15ed56024a55a191166d7/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/manojit/.android/build-cache/3b55e1152c3ad9c15f2b41e24904f16aad27b0d0/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/manojit/.android/build-cache/61904c79883113b1f3d5561ed93900ba7a51086f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/manojit/.android/build-cache/42cf3ba296c572eb99bdd112e888293689f9f006/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/manojit/.android/build-cache/5bd9a33de8872f8678378ba79607c63c0fd0b4c7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/manojit/.android/build-cache/fef05d1a7e410dbb185418df62c41b66b0c04e8d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/manojit/.android/build-cache/23c7564eb0c8bfae5c6e58c13bd902b4420a53d9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/manojit/.android/build-cache/02cc4ee36dd37a533c7ed1c6a39be9d59b259f62/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/manojit/.android/build-cache/287700c15480a486ae6fb6e142e3d79fdd5e977d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/manojit/.android/build-cache/3719e33e0fe3af9304b8c9da557bab114fe3e480/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/manojit/.android/build-cache/44ce932dbdfdb19880c36a9f6d14f8662fa74272/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/manojit/.android/build-cache/361fe3ff7795555290c17771421ef7adb7e21233/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/manojit/.android/build-cache/3776493491a1d653df68f5d4dce3cf570a49bc1a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/manojit/.android/build-cache/427fb0d2f6a0c8bececa25334fb4483a0b3ecfe0/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/manojit/.android/build-cache/d89c00343036f00fcecf9c07182b4286520cc3cb/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/manojit/.android/build-cache/21c28bafcf3d68e2da977aff1db8bcd45b64bca8/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/manojit/.android/build-cache/987418b5e292b1d20e88f6ac73f9def9f122540b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/manojit/.android/build-cache/e01e6ceea5782798c766573350913776e4272532/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/manojit/.android/build-cache/e40f36e2d8c7a62895036d1c3467ae923c5066a0/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/manojit/.android/build-cache/c510d8971dc427eee573f847f88a3be74449a114/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/manojit/.android/build-cache/e2e4e4aef3f5b163824075a0220874b6efaafda9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/manojit/.android/build-cache/b47decf2c71ec81c0b465d634d461e18480f1c06/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/manojit/.android/build-cache/c6649618799fd811bdfbbd951d890be45fb9991f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/manojit/.android/build-cache/f98b25d7e50d05a003e39278474bf00ab1b606f1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/manojit/.android/build-cache/5e8155e575d9e35a2da8254f7f197a36eebbf0eb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/manojit/.android/build-cache/e8dbb4ad9470b0875919e595378faca3cb0d131f/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.directioner.terratechnica.MainActivity
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:18:9-22:20
+	android:label
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:19:13-41
+service#com.example.directioner.terratechnica.MyFirebaseMessagingService
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:24:9-28:19
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:24:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:25:13-27:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:26:25-75
+service#com.example.directioner.terratechnica.MyFirebaseInstanceIDService
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:29:9-33:19
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:29:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:31:17-80
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:31:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:36:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:40:9-42:53
+	android:resource
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:42:13-50
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:41:13-84
+activity#com.example.directioner.terratechnica.CircleActivity
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:45:9-52
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:45:19-49
+activity#com.example.directioner.terratechnica.CategoryItemDisplay
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:47:9-57
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:47:19-54
+activity#com.example.directioner.terratechnica.EventCateg.Events
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:49:9-50:58
+	android:parentActivityName
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:49:19-52
+activity#com.example.directioner.terratechnica.Maps.Maps
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:52:9-47
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:52:19-44
+activity#com.example.directioner.terratechnica.SplashScreen
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:54:9-60:20
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:54:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:58:27-74
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:62:9-64:71
+	android:value
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:64:13-68
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:63:13-62
+activity#com.example.directioner.terratechnica.Games.DiceActivity
+ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:66:9-56
+	android:name
+		ADDED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml:66:19-53
+uses-sdk
+INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /home/manojit/.android/build-cache/6f9f0fe2bc82e340db53eac769159b1518305ecd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /home/manojit/.android/build-cache/3f3fabf162fac9069cb9cd60e5d20b840019e678/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/manojit/.android/build-cache/89e2f9f8cda666981c744b13a5ff9959bb837c42/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/manojit/.android/build-cache/4fe09b402fb891adfe0b3f20bd78c75d0f380669/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /home/manojit/.android/build-cache/26aba83420dac835b7606d3b614b0e97b3304bca/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/manojit/.android/build-cache/62367a7189c14a424c36d6b0d71fb0b8d369a376/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/manojit/.android/build-cache/01d42b321d56f8da0b5b12ef54232fb75244bbae/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/manojit/.android/build-cache/0839c2c7b5461ef60790ee653a34eaa0e020c629/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/manojit/.android/build-cache/54f405b98c041d39969c3c906be4eb8a1fcd3ee7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/manojit/.android/build-cache/66a2fdb0fde4db5d5dfdd09b62082c15f761fe11/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/manojit/.android/build-cache/d4dbb6120ee1d5a97d7da012aac5a6dce6455a99/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/manojit/.android/build-cache/85ce50fb68e94832c8ae4eac210baedb4c04a26e/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/manojit/.android/build-cache/fb08ef1df766d6e3005436f4202d5b408fd17e7b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/manojit/.android/build-cache/ae8467c388cc08f76665aa82f3dd14df5a328220/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/manojit/.android/build-cache/a4b1ee674fc941da7e96a83f31d507903f250fe3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/manojit/.android/build-cache/30257c1a0cb1ea7623b15ed56024a55a191166d7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/manojit/.android/build-cache/3b55e1152c3ad9c15f2b41e24904f16aad27b0d0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/manojit/.android/build-cache/b4e1e4446d61b1424b93459038aaf264dd01f5cc/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/manojit/.android/build-cache/7e0c8ba0043bcf453ddf6aa51ca7ba3a71314f67/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/manojit/.android/build-cache/a25d50400021715e6b2ed161559616e0c41466e4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/manojit/.android/build-cache/caec1c0ec997858b484c0229c109759e78b0c94b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/manojit/.android/build-cache/61904c79883113b1f3d5561ed93900ba7a51086f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/manojit/.android/build-cache/42cf3ba296c572eb99bdd112e888293689f9f006/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/manojit/.android/build-cache/5bd9a33de8872f8678378ba79607c63c0fd0b4c7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/manojit/.android/build-cache/fef05d1a7e410dbb185418df62c41b66b0c04e8d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/manojit/.android/build-cache/23c7564eb0c8bfae5c6e58c13bd902b4420a53d9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/manojit/.android/build-cache/02cc4ee36dd37a533c7ed1c6a39be9d59b259f62/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /home/manojit/.android/build-cache/e6b72a33762ab3e18324fdacb117a56f81694b65/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/manojit/.android/build-cache/287700c15480a486ae6fb6e142e3d79fdd5e977d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/manojit/.android/build-cache/3719e33e0fe3af9304b8c9da557bab114fe3e480/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/manojit/.android/build-cache/44ce932dbdfdb19880c36a9f6d14f8662fa74272/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/manojit/.android/build-cache/361fe3ff7795555290c17771421ef7adb7e21233/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/manojit/.android/build-cache/3776493491a1d653df68f5d4dce3cf570a49bc1a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/manojit/.android/build-cache/427fb0d2f6a0c8bececa25334fb4483a0b3ecfe0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /home/manojit/.android/build-cache/b76111abb1b955d0e7f47896bbd40ddc905e1760/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/manojit/.android/build-cache/d89c00343036f00fcecf9c07182b4286520cc3cb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/manojit/.android/build-cache/21c28bafcf3d68e2da977aff1db8bcd45b64bca8/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /home/manojit/.android/build-cache/fb7f001eaf5d76ec8b2e40be2b712c07fc3c72b8/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/manojit/.android/build-cache/987418b5e292b1d20e88f6ac73f9def9f122540b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/manojit/.android/build-cache/e01e6ceea5782798c766573350913776e4272532/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:17:5-43
+MERGED from [com.daimajia.easing:library:1.0.1] /home/manojit/.android/build-cache/37090dabef18c5c559c64acbce07dd45a0754c26/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] /home/manojit/.android/build-cache/05c6e3025e518bd410f97f878f2cc0d2523a4d7a/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/manojit/.android/build-cache/e40f36e2d8c7a62895036d1c3467ae923c5066a0/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/manojit/.android/build-cache/c510d8971dc427eee573f847f88a3be74449a114/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /home/manojit/.android/build-cache/e2e4e4aef3f5b163824075a0220874b6efaafda9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/manojit/.android/build-cache/b47decf2c71ec81c0b465d634d461e18480f1c06/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/manojit/.android/build-cache/c6649618799fd811bdfbbd951d890be45fb9991f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/manojit/.android/build-cache/f98b25d7e50d05a003e39278474bf00ab1b606f1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/manojit/.android/build-cache/5e8155e575d9e35a2da8254f7f197a36eebbf0eb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/manojit/.android/build-cache/e8dbb4ad9470b0875919e595378faca3cb0d131f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/manojit/.android/build-cache/66a2fdb0fde4db5d5dfdd09b62082c15f761fe11/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manojit/Desktop/TerraTechnica/TerraTechnica/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/manojit/.android/build-cache/6daefb8199c399774cbb32aa49b9881860f05d0b/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/manojit/.android/build-cache/f639a6d660ebd58d024482424bf30866a6e3e291/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /home/manojit/.android/build-cache/8cc55854e8c08670133b5d695a1ddcfa2c9120ff/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/manojit/.android/build-cache/1c52a8c99b4cc79b432b5f5e9a2bb17f87263662/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/manojit/.android/build-cache/52e690cbefa140abebe86e72aed07fe2ec080103/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/manojit/.android/build-cache/01654586f428526adef0a65d4d13db43fd6ddf3e/output/AndroidManifest.xml:7:18-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/manojit/.android/build-cache/02cc4ee36dd37a533c7ed1c6a39be9d59b259f62/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /home/manojit/.android/build-cache/3cd1a2278582be1070afe5fb197c96624a578f9d/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/manojit/.android/build-cache/1f54816d52c742816c8e01957bb32e514d3e30e1/output/AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/manojit/.android/build-cache/aed92cff966ed23cdd5a2f8779b63bd24d8fd89a/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/manojit/.android/build-cache/4f328a51c2f57ee84b312b9f5f14a66cb87e1135/output/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/manojit/.android/build-cache/d4e79ffeb4c77c6dad46bf8a66c5180ffc43a308/output/AndroidManifest.xml:23:18-87
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/manojit/.android/build-cache/7804506c50c5de5fa2d184b2878c571fdc7f919a/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/manojit/.android/build-cache/1ced4b26e7e6b13c2b4776f2f899f08bfeed97ce/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/manojit/.android/build-cache/c0f5970a3e3e6b3a15f05e055a951a65adb778d5/output/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/manojit/.android/build-cache/c0cf8a1bcd91090dfd590c1065d076c2144989e2/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/manojit/.android/build-cache/8dac3b5c5e64be05a4ebb75416172265269a1e13/output/AndroidManifest.xml:20:20-65

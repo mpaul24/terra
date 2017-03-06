@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/manojit/.android/build-cache/0839c2c7b5461ef60790ee653a34eaa0e020c629/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/manojit/Desktop/TerraTechnica/TerraTechnica/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/manojit/.android/build-cache/0839c2c7b5461ef60790ee653a34eaa0e020c629/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]
